@@ -1,2 +1,2 @@
 # IFG-Net
-our code weill be public soon
+Our code weill be public soon
